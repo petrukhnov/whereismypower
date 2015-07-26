@@ -2,43 +2,49 @@
 Information about power consumption of various appliances.
 
 
-
 # Upcoming Content:
 
-  lamps
-  tv
-  PC
-  device chargers
-  washing machines
-  vacum cleaners
-  oven
-  christmas lights
-  speakers
-  laptops
-  printers
-  battery chargers
-  consoles
-  nas, routers
-  toys
-  kitchen (microwave, kettle, etc)
-  wet and air cleaners
-  musical
-  etc
+* lamps
+* tv
+* PC
+* device chargers
+* washing machines
+* vacum cleaners
+* oven
+* christmas lights
+* speakers
+* laptops
+* printers
+* battery chargers
+* consoles
+* nas, routers
+* toys
+* kitchen (microwave, kettle, etc)
+* wet and air cleaners
+* musical
+* etc
 
 # Examples:
 
 ## Led lamp 5m stripe (remote controll+colorselector)
-active: 6-8 watt
-standby: 1 watt
+* active: 6-8 W
+* standby: 1 W
 
+## Low-end PC:
 
 ## Mid-end gaming PC:
-watching youtube: 90w
-playing games: 140w
-hibernate
+* watching youtube: 90 W
+* playing games: 140 W
+* hibernate
+
+
+## Hi-end gaming PC:
+
+
 
 ## 40" LED TV
-in working/waiting mode
+* on: 130 W
+* off: 1 W
 
 
 # External links
