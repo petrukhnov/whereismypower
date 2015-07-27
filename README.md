@@ -47,7 +47,7 @@ Information about power consumption of various appliances.
 * on: 130 W
 * off: 1 W
  
-## phone/tablet charger (microusb, 2A)
+## phone/tablet charger (microusb, 5V 0.7A)
 * charging: 4 W
 * standby connected 
 * standby not-connected 
