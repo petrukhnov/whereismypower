@@ -49,8 +49,15 @@ Information about power consumption of various appliances.
  
 ## phone/tablet charger (microusb, 5V 0.7A)
 * charging: 4 W
-* standby connected 
-* standby not-connected 
+* standby connected: 1-2 W
+* standby not-connected: 0 W
+Charging phone from discharged to fully charged takes 2-4 hours.
+
+## phone/tablet charger (microusb, 5.3V 2A)
+* charging: 
+* standby connected: 1 W
+* standby not-connected: 0 W
+
 
 # External links
 
