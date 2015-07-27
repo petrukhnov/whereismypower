@@ -30,22 +30,27 @@ Information about power consumption of various appliances.
 * active: 6-8 W
 * standby: 1 W
 
-## Low-end PC:
+## Low-end PC
 
-## Mid-end gaming PC:
+
+## Mid-end gaming PC
 * watching youtube: 90 W
 * playing games: 140 W
-* hibernate
+* hibernate: 1 W
 
 
-## Hi-end gaming PC:
-
-
+## Hi-end gaming PC
+* playing games: 300 W
+* hibernate: 1 W
 
 ## 40" LED TV
 * on: 130 W
 * off: 1 W
-
+ 
+## phone/tablet charger (microusb, 2A)
+* charging: 4 W
+* standby connected 
+* standby not-connected 
 
 # External links
 
