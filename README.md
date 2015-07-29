@@ -2,33 +2,18 @@
 Information about power consumption of various appliances.
 
 
-# Upcoming Content:
 
-* lamps
-* tv
-* PC
-* device chargers
-* washing machines
-* vacum cleaners
-* oven
-* christmas lights
-* speakers
-* laptops
-* printers
-* battery chargers
-* consoles
-* nas, routers
-* toys
-* kitchen (microwave, kettle, etc)
-* wet and air cleaners
-* musical
-* etc
 
 # Examples:
 
 ## Led lamp 5m stripe (remote controll+colorselector)
 * active: 6-8 W
 * standby: 1 W
+
+
+## Laptop charger
+* charging: 60-70 W
+* disconnected: 1 W
 
 ## Low-end PC
 
@@ -58,6 +43,24 @@ Charging phone from discharged to fully charged takes 2-4 hours.
 * standby connected: 1 W
 * standby not-connected: 0 W
 
+
+# Upcoming Content:
+
+* device chargers
+* washing machines
+* vacum cleaners
+* oven
+* christmas lights
+* speakers
+* printers
+* battery chargers
+* consoles
+* nas, routers
+* toys
+* kitchen (microwave, kettle, etc)
+* wet and air cleaners
+* musical
+* etc
 
 # External links
 
