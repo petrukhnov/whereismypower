@@ -4,47 +4,48 @@ Information about power consumption of various appliances.
 
 
 
-# Examples:
+## Examples:
 
-## Led lamp 5m stripe (remote controll+colorselector)
+### Led lamp 5m stripe (remote controll+colorselector)
 * active: 6-8 W
 * standby: 1 W
 
 
-## Laptop charger
+### Laptop charger
 * charging: 60-70 W
+* charged: 1 W
 * disconnected: 1 W
 
-## Low-end PC
+### Low-end PC
 
 
-## Mid-end gaming PC
+### Mid-end gaming PC
 * watching youtube: 90 W
 * playing games: 140 W
 * hibernate: 1 W
 
 
-## Hi-end gaming PC
+### Hi-end gaming PC
 * playing games: 300 W
 * hibernate: 1 W
 
-## 40" LED TV
+### 40" LED TV
 * on: 130 W
 * off: 1 W
  
-## phone/tablet charger (microusb, 5V 0.7A)
+### phone/tablet charger (microusb, 5V 0.7A)
 * charging: 4 W
 * standby connected: 1-2 W
 * standby not-connected: 0 W
 Charging phone from discharged to fully charged takes 2-4 hours.
 
-## phone/tablet charger (microusb, 5.3V 2A)
+### phone/tablet charger (microusb, 5.3V 2A)
 * charging: 
 * standby connected: 1 W
 * standby not-connected: 0 W
 
 
-# Upcoming Content:
+## Upcoming Content:
 
 * device chargers
 * washing machines
@@ -62,7 +63,7 @@ Charging phone from discharged to fully charged takes 2-4 hours.
 * musical
 * etc
 
-# External links
+## External links
 
 http://www.wholesalesolar.com/solar-information/how-to-save-energy/power-table
 https://en.wikipedia.org/wiki/Electric_energy_consumption
