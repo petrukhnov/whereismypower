@@ -29,6 +29,11 @@ Information about power consumption of various appliances.
 * playing games: 300 W
 * hibernate: 1 W
 
+
+### 24" LCD
+* on: 14 W
+* standby: 1 W
+
 ### 40" LED TV
 * on: 130 W
 * off: 1 W
