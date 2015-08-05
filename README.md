@@ -37,6 +37,10 @@ Information about power consumption of various appliances.
 ### 40" LED TV
 * on: 130 W
 * off: 1 W
+
+### small active speakers 10W
+* off: 2 W
+* on: 4 W
  
 ### phone/tablet charger (microusb, 5V 0.7A)
 * charging: 4 W
