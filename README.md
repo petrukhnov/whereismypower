@@ -26,6 +26,7 @@ Information about power consumption of various appliances.
 
 
 ### Hi-end gaming PC
+* икщцыштп: 110 W
 * playing games: 300 W
 * hibernate: 1 W
 
