@@ -6,7 +6,7 @@ Information about power consumption of various appliances.
 
 ## Examples:
 
-### Led lamp 5m stripe (remote controll+colorselector)
+### Led lamp 5m stripe (remote control+colorselector)
 * active: 6-8 W
 * standby: 1 W
 
@@ -26,7 +26,7 @@ Information about power consumption of various appliances.
 
 
 ### Hi-end gaming PC
-* икщцыштп: 110 W
+* web-browsing: 110 W
 * playing games: 300 W
 * hibernate: 1 W
 
