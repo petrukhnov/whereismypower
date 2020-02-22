@@ -10,6 +10,9 @@ Information about power consumption of various appliances.
 * active: 6-8 W
 * standby: 1 W
 
+### christmas lights
+
+5-30 W
 
 ### Laptop charger
 * charging: 60-70 W
@@ -43,6 +46,9 @@ Information about power consumption of various appliances.
 * off: 2 W
 * on: 4 W
  
+### wifi router
+* 10W
+ 
 ### phone/tablet charger (microusb, 5V 0.7A)
 * charging: 4 W
 * standby connected: 1-2 W
@@ -54,15 +60,25 @@ Charging phone from discharged to fully charged takes 2-4 hours.
 * standby connected: 1 W
 * standby not-connected: 0 W
 
+### washing machine (2015-2020)
+
+* connected: 1 W
+* display on: 2 W
+* washing: 20-80 W
+* heating water: 2000 W
+
+### dryer (2015-2020)
+
+* connected: 1 W
+* display on: 2 W
+* extra light: 4 W
+* drying: 250-500 W
 
 ## Upcoming Content:
 
 * device chargers
-* washing machines
 * vacum cleaners
 * oven
-* christmas lights
-* speakers
 * printers
 * battery chargers
 * consoles
@@ -76,5 +92,7 @@ Charging phone from discharged to fully charged takes 2-4 hours.
 ## External links
 
 http://www.wholesalesolar.com/solar-information/how-to-save-energy/power-table
+
 https://en.wikipedia.org/wiki/Electric_energy_consumption
+
 http://www.hardwaresecrets.com/how-much-power-do-electronic-equipment-consume-when-in-standby-mode/
