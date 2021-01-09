@@ -67,12 +67,17 @@ Charging phone from discharged to fully charged takes 2-4 hours.
 * washing: 20-80 W
 * heating water: 2000 W
 
-### dryer (2015-2020)
+### tumble dryer (2015-2020)
 
 * connected: 1 W
 * display on: 2 W
 * extra light: 4 W
 * drying: 250-500 W
+
+### fridge (2010-2015)
+
+* max: 200 W
+* averagae over week: 100 W
 
 ## Upcoming Content:
 
