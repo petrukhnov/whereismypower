@@ -85,7 +85,7 @@ Charging phone from discharged to fully charged takes 2-4 hours.
 * total: 0.1kWh
 
 
-### Experiemnt with various power supplies
+### Experiement with various PSU
 
 2 builds x 3 power supplies. Each power supply is 7 years old. 
 
