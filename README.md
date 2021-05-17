@@ -91,6 +91,7 @@ Charging phone from discharged to fully charged takes 2-4 hours.
 
 * Build FM2: A4-6300 (65W)
 * Build AM3: Phenom  II - 975 (125W)
+
 Each used same sata hdd drive. Both have integrated GPU, and fullhd monitor was connected via DVI port. Bios was set to use "cool'n'quite" option and energy saving.
 
 PSU (different vendors):
