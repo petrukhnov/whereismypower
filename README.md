@@ -79,6 +79,35 @@ Charging phone from discharged to fully charged takes 2-4 hours.
 * max: 200 W
 * averagae over week: 100 W
 
+### Kettle 
+* 2000 W
+* boiling 1 litre of water took 200s
+* total: 0.1kWh
+
+
+### Experiemnt with various power supplies
+
+2 builds x 3 power supplies. Each power supply is 7 years old. 
+
+* Build FM2: A4-6300 (65W)
+* Build AM3: Phenom  II - 975 (125W)
+Each used same sata hdd drive. Both have integrated GPU, and fullhd monitor was connected via DVI port. Bios was set to use "cool'n'quite" option and energy saving.
+
+PSU (different vendors):
+* vendorM: 530W (Efficiency 81%, no 80+ rating)
+* vendorH: 630W (Efficiency 84%, no 80+ rating)
+* vendorC: 650W (80+Bronze)
+
+Idle: when PC is started, and liveOS loaded, but no active applications were running.
+Load: when some encryption algorithm was running for 1 minute.
+
+|   | A4-6300 idle  | A4-6300 load  | PII-975 idle  |  PII-975 Load |
+|---|---|---|---|---|
+| 530W  | 41W  | 69W  | 61W  | 108W  |
+| 630W  | 42W  | 72W  | 63W  | 116W  |
+| 650W  | 41W  | 63W  | 56W  | 101W  |
+
+
 ## Upcoming Content:
 
 * device chargers
