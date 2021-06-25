@@ -91,8 +91,8 @@ Charging phone from discharged to fully charged takes 2-4 hours.
 * RAM 4GB
 * 2 SATA SSD
 
-idle: 33 W
-file transfer: 42 W
+* idle: 33 W
+* file transfer: 42 W
 
 ### Experiement with various PSU
 
