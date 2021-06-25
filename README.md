@@ -84,6 +84,15 @@ Charging phone from discharged to fully charged takes 2-4 hours.
 * boiling 1 litre of water took 200s
 * total: 0.1kWh
 
+### DIY NAS
+
+* FM2 A4-6300
+* PSU: 530W
+* RAM 4GB
+* 2 SATA SSD
+
+idle: 33 W
+file transfer: 42 W
 
 ### Experiement with various PSU
 
