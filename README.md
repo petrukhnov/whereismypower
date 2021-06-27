@@ -84,6 +84,11 @@ Charging phone from discharged to fully charged takes 2-4 hours.
 * boiling 1 litre of water took 200s
 * total: 0.1kWh
 
+### Standing Pedestal Fan
+
+* slowest: 32 W
+* fastest 38 W
+
 ### DIY NAS
 
 * FM2 A4-6300
