@@ -17,6 +17,8 @@ Information about power consumption of various appliances.
 ### Laptop charger
 * charging: 60-70 W
 * charged: 1 W
+* active use screen-on: 45 W
+* active use screen-off (e.g. external screen): 20 W
 * disconnected: 1 W
 
 ### Low-end PC
