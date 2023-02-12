@@ -83,6 +83,7 @@ Charging phone from discharged to fully charged takes 2-4 hours.
 
 * connected: 1 W
 * display on: 2 W
+* washing and drying complete cycle: 6000 W total
 
 
 ### fridge (2010-2015)
