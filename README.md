@@ -48,8 +48,11 @@ Information about power consumption of various appliances.
 * off: 2 W
 * on: 4 W
  
-### wifi router
+### wifi BGN router (2015-2020)
 * 10W
+
+### wifi AC router (2020-2022)
+* 5W
  
 ### phone/tablet charger (microusb, 5V 0.7A)
 * charging: 4 W
@@ -62,19 +65,25 @@ Charging phone from discharged to fully charged takes 2-4 hours.
 * standby connected: 1 W
 * standby not-connected: 0 W
 
-### washing machine (2015-2020)
+### washing machine A+ (2015-2020)
 
 * connected: 1 W
 * display on: 2 W
 * washing: 20-80 W
 * heating water: 2000 W
 
-### tumble dryer (2015-2020)
+### tumble dryer A+ (2015-2020)
 
 * connected: 1 W
 * display on: 2 W
 * extra light: 4 W
 * drying: 250-500 W
+
+### washing machine with tumble dryer D+ (2020-2022)
+
+* connected: 1 W
+* display on: 2 W
+
 
 ### fridge (2010-2015)
 
@@ -85,6 +94,23 @@ Charging phone from discharged to fully charged takes 2-4 hours.
 * 2000 W
 * boiling 1 litre of water took 200s
 * total: 0.1kWh
+
+### shaver charger (2020-2022)
+
+* connected: 0 W
+* charged shaver connected: 0 W
+* shaver charging: ?? W
+
+### electric toothbrush (2015-2020)
+* connected: 1 W
+* charged toothbrush connected: 1 W
+* toothbrush charging: 1 W
+
+### hairdryer (2015-2020)
+
+* connected and switched off: 1 W
+* working: 2000 W
+* With usage of several minutes per week:  15 kWh will be consumed during usage, 8 kWh willbe lost for standby.
 
 ### Standing Pedestal Fan
 
