@@ -40,14 +40,23 @@ Information about power consumption of various appliances.
 * on: 14 W
 * standby: 1 W
 
-### 40" LED TV
+### 32" LED TV (2010-2015)
+* on: 48 W
+* off: 1.5 W
+
+### 40" LED TV (2010-2015)
 * on: 130 W
 * off: 1 W
 
-### small active speakers 10W
+### TV stick hdmi (2022)
+* on: 2 W
+* off: 1 W
+
+### small active speakers 10W (~2015)
 * off: 2 W
 * on: 4 W
- 
+* playing sound: 5 W
+
 ### wifi BGN router (2015-2020)
 * 10W
 
@@ -64,6 +73,12 @@ Charging phone from discharged to fully charged takes 2-4 hours.
 * charging: 
 * standby connected: 1 W
 * standby not-connected: 0 W
+* charging with palying video: 17 W
+
+### printer (2022)
+* off: 0W
+* standby connected: 3.5 W
+* printing: 6.5 W
 
 ### washing machine A+ (2015-2020)
 
@@ -95,6 +110,7 @@ Charging phone from discharged to fully charged takes 2-4 hours.
 * 2000 W
 * boiling 1 litre of water took 200s
 * total: 0.1kWh
+* monthly e.g. ~5-15 kWh
 
 ### shaver charger (2020-2022)
 
