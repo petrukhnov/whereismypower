@@ -36,8 +36,12 @@ Information about power consumption of various appliances.
 * hibernate: 1 W
 
 
-### 24" LCD
+### 24" LCD (2020-2023)
 * on: 14 W
+* standby: 1 W
+
+### 24" FULL-HD LCD/TV (2010-2015)
+* on: 45 W
 * standby: 1 W
 
 ### 32" LED TV (2010-2015)
@@ -57,11 +61,19 @@ Information about power consumption of various appliances.
 * on: 4 W
 * playing sound: 5 W
 
+### small active speakers 10W (2020-2023)
+* off: 1 W
+* on: 1 W
+* playing sound: 3 W
+
 ### wifi BGN router (2015-2020)
 * 10W
 
 ### wifi AC router (2020-2022)
 * 5W
+
+### ethernet firewall (celeron based) (2015-2020)
+* 7W
  
 ### phone/tablet charger (microusb, 5V 0.7A)
 * charging: 4 W
@@ -79,6 +91,10 @@ Charging phone from discharged to fully charged takes 2-4 hours.
 * off: 0W
 * standby connected: 3.5 W
 * printing: 6.5 W
+
+### 3d printer (2015-2020)
+* off: 1W
+* printing: 40 W
 
 ### washing machine A+ (2015-2020)
 
@@ -98,7 +114,7 @@ Charging phone from discharged to fully charged takes 2-4 hours.
 
 * connected: 1 W
 * display on: 2 W
-* washing and drying complete cycle: 6000 W total
+* washing and drying complete cycle: 6000 Wh total
 
 
 ### fridge (2010-2015)
@@ -128,6 +144,11 @@ Charging phone from discharged to fully charged takes 2-4 hours.
 * connected and switched off: 1 W
 * working: 2000 W
 * With usage of several minutes per week:  15 kWh will be consumed during usage, 8 kWh willbe lost for standby.
+
+### cheap shoedryer (2015-2020)
+
+* connected and switched off: 0 W
+* working: 350 W
 
 ### Standing Pedestal Fan
 
@@ -171,10 +192,8 @@ Load: when some encryption algorithm was running for 1 minute.
 * device chargers
 * vacum cleaners
 * oven
-* printers
 * battery chargers
 * consoles
-* nas, routers
 * toys
 * kitchen (microwave, kettle, etc)
 * wet and air cleaners
