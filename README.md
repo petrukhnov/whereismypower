@@ -186,6 +186,11 @@ Load: when some encryption algorithm was running for 1 minute.
 | 630W  | 42W  | 72W  | 63W  | 116W  |
 | 650W  | 41W  | 63W  | 56W  | 101W  |
 
+### Transport
+
+* 2020-2025 electric bycicle - 1kWh is about 100km
+* 2020-2025 electric motorcycle - 1kWh is about 15km
+* pre 2020 electric car - 1kWh is about 5km
 
 ## Upcoming Content:
 
